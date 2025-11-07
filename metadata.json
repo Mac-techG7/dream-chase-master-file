@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AgriGrow Investment Dashboard",
+  "description": "A web application that provides a dashboard for investing in various agricultural farms, inspired by the AgriGrow app concept. Users can view available farms, their potential returns, and manage their investments.",
+  "requestFramePermissions": []
+}
